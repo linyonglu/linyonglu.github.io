@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-theme-gnas",
+  "author": "ShnHz",
+  "description": "A simple and beautiful vuepress Blog & Doc theme.",
+  "scripts": {
+    "dev": "vuepress dev example",
+    "build:example": "vuepress build example"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-nprogress": "^1.9.7",
+    "async-validator": "^4.2.5",
+    "element-ui": "^2.15.12",
+    "js-md5": "^0.7.3",
+    "loadsh": "^0.0.4",
+    "valine-gnas": "^1.0.2",
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-helper-live2d": "^1.0.2"
+  }
+}
