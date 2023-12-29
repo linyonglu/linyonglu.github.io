@@ -1,5 +1,5 @@
 module.exports = {
-    title: "vuepress-theme-gnas",
+    title: "lyl-blog",
     dest: 'example/dist',
     // base: '/example/dist',
     plugins: {
@@ -95,12 +95,12 @@ module.exports = {
                 enable: true,
             }
         },
-        // 备案号
+        // // 备案号
         record: '浙ICP备00000000号-0',
         recordLink: 'http://beian.miit.gov.cn/',
 
         // 作者
-        author: '野宁新之助',
+        author: 'Ericlin',
 
 
         // 项目开始时间

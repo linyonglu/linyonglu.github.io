@@ -1,7 +1,7 @@
 ---
 mode: 'friend'
 friendLink: [{
-    "name": "野宁新之助",
+    "name": "Ericlin",
     "href": "https://www.sanghangning.cn",
     "icon": "https://cdn.chenyingshuang.cn/index/avatar.jpg",
     "description": "说说我的生活吧"

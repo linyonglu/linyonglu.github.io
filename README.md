@@ -5,7 +5,7 @@ This theme refers to [vuepress-theme-gnas1.x](https://github.com/vuepress-gnas/v
 
 1. This is a Vuepress theme, which is designed to add blog categories, tag walls, comments and other functions required;
 2. The theme is minimalist, modified according to the default theme of Vuepress, and the official theme configuration is still applicable;
-3. Demo：[野宁新之助](https://www.sanghangning.cn) 
+3. Demo：[Ericlin](https://www.sanghangning.cn) 
 
 ## Quick start
 
@@ -142,7 +142,7 @@ module.exports = {
         // 备案号跳转地址
         recordLink: 'http://beian.miit.gov.cn/',
         // 作者
-        author: '野宁新之助',
+        author: 'Ericlin',
         // 项目开始时间
         startYear: '2022',
         // 导航栏配置

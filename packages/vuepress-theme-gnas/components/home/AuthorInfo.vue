@@ -39,6 +39,7 @@ export default {
      * 添加书签
      */
         addBookMark() {
+            console.log('$site.themeConfig', this.$site.themeConfig);
             this.$notify({
                 message: '按 CTRL + D 将本页加入书签',
                 position: 'bottom-right',
