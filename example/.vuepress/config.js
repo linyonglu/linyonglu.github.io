@@ -29,8 +29,8 @@ module.exports = {
         // 评论系统 文档：https://valine.js.org/，支持valine所有配置
         valine: {
             enable: true,
-            appId: 'xxx',
-            appKey: 'xxx',
+            appId: 'crYJS05GhkiUBauYK5cJ6f1K-gzGzoHsz',
+            appKey: 'nBHOJrAVqwywdWiiqut8gMMH',
         },
 
         // 加入公益404计划，默认为true
