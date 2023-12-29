@@ -1,6 +1,7 @@
 module.exports = {
     title: "vuepress-theme-gnas",
     dest: 'example/dist',
+    base: '/linyonglu.github.io/',
     plugins: {
         '@vuepress/back-to-top': true
     },
