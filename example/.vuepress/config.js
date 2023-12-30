@@ -72,7 +72,7 @@ module.exports = {
                 alipay: '/img/alipay_ercode.jpg'
             },
             loveConfig: {
-                enable: true,
+                enable: false,
                 boy: '/img/boy.jpg',
                 girl: '/img/girl.jpg',
                 startDay: '2019/06/29'
