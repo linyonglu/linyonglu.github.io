@@ -63,7 +63,7 @@ module.exports = {
             ],
             authorConfig: {
                 enable: true,
-                avatar: '/img/avatar.jpg',
+                avatar: '/img/ericlin.jpg',
                 bookmark: true,
                 github: 'https://github.com/ShnHz',
                 qq: 123456789,
