@@ -3,11 +3,11 @@ date: 2021/08/05 16:22:35
 config: {
     top: true,
     dir: false,
-    tag: ['test'],
+    tag: ['blog'],
     valine: true,
 }
 title: 关于我的博客
-summary: 测试测试测试测试测试测试测试测试测试测试
+summary: 博客
 ---
 
 ### 随便说说
@@ -18,6 +18,6 @@ summary: 测试测试测试测试测试测试测试测试测试测试
 
 评论模块用的是<a href="https://valine.js.org/" target="_blank">valine</a>
 
-用的框架是<a href="https://vuepress.vuejs.org/zh/" target="_blank">vuepress</a>，可以去官网看文档，觉得我做的博客还不错想要模仿的话可以参考文档和<a href="https://github.com/ShnHz/say-my-life" target="_blank">我的代码~</a>
+用的框架是<a href="https://vuepress.vuejs.org/zh/" target="_blank">vuepress</a>，可以去官网看文档，觉得我做的博客还不错想要模仿的话可以参考文档和<a href="https://github.com/linyonglu/linyonglu.github.io" target="_blank">我的代码~</a>
 
 ### 随便说说2

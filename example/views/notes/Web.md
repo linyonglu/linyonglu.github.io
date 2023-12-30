@@ -5,11 +5,11 @@ config: {
 }
 ---
 
-[「Github」ShnHz](https://github.com/ShnHz)
+<!-- [「Github」ShnHz](https://github.com/ShnHz)
 
 [「Github」SHN-UI](https://shnhz.github.io/shn-ui/#/component/installation)
 
-[「Github」say-my-life](https://shnhz.github.io/say-my-life/)
+[「Github」say-my-life](https://shnhz.github.io/say-my-life/) -->
 
 ### 技术文档
 [「Vue」Vue.js](https://cn.vuejs.org/v2/api/)
