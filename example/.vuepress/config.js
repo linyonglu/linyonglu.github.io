@@ -13,7 +13,7 @@ module.exports = {
             default: 'light'
         },
         // 锁定页面默认密码，请使用MD5，4位数MD5加密后的密码
-        password: '1234',
+        password: '81dc9bdb52d04dc20036dbd8313ed055',
         // 首屏加载动画
         firstLoading: true,
         firstLoadingDuration: 2000,
