@@ -96,15 +96,15 @@ module.exports = {
             }
         },
         // // 备案号
-        record: '浙ICP备00000000号-0',
-        recordLink: 'http://beian.miit.gov.cn/',
+        // record: '浙ICP备00000000号-0',
+        // recordLink: 'http://beian.miit.gov.cn/',
 
         // 作者
         author: 'Ericlin',
 
 
         // 项目开始时间
-        startYear: '2022',
+        startYear: '2023',
 
         // 导航栏
         nav: [{
@@ -181,7 +181,7 @@ module.exports = {
             "name": "vuepress",
             "type": "vuepress"
         }, {
-            "name": "转",
+            "name": "其他",
             "type": "info"
         }, {
             "name": "Docker",
