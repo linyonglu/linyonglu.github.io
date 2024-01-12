@@ -190,8 +190,8 @@ module.exports = {
             "name": "奇闻异事",
             "type": "anecdote"
         }, {
-            "name": "movie",
-            "type": "movie",
+            "name": "react",
+            "type": "react",
         }, {
             "name": "git",
             "type": "git"
