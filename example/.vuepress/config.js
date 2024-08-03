@@ -201,6 +201,9 @@ module.exports = {
         }, {
             "name": "算法",
             "type": "algorithm"
+        }, {
+            "name": "生活",
+            "type": "life"
         }],
 
         live2d: {
