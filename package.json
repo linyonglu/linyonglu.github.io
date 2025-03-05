@@ -16,5 +16,8 @@
     "valine-gnas": "^1.0.2",
     "vuepress": "^1.9.7",
     "vuepress-plugin-helper-live2d": "^1.0.2"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
