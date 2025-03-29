@@ -1,3 +1,15 @@
+---
+date: 2025/02/25 16:16:27 
+config: {
+    top: false,
+    dir: true,
+    dirTag: [h1,h2,h3],
+    tag: ['css'],
+    valine: true,
+}
+title: 基础知识整理
+---
+
 # CSS知识体系框架
 
 ## 一、CSS基础核心

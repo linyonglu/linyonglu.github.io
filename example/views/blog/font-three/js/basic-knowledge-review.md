@@ -4,7 +4,7 @@ config: {
     top: false,
     dir: true,
     dirTag: [h1,h2,h3],
-    tag: ['docker'],
+    tag: ['js'],
     valine: true,
 }
 title: 基础知识整理
