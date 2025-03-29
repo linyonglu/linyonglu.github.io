@@ -65,7 +65,7 @@ module.exports = {
                 enable: true,
                 avatar: '/img/ericlin.jpg',
                 bookmark: true,
-                github: 'https://github.com/ShnHz',
+                github: 'https://github.com/linyonglu',
                 qq: 123456789,
                 wx: '123456789',
                 email: '123456789@qq.com',
@@ -129,7 +129,7 @@ module.exports = {
             },
             {
                 text: 'GitHub',
-                link: 'https://github.com/linyonglu/linyonglu.github.ios'
+                link: 'https://github.com/linyonglu'
             }
         ],
         sidebar: [
