@@ -7,7 +7,7 @@ config: {
     tag: ['js'],
     valine: true,
 }
-title: 基础知识整理
+title: js基础知识整理
 ---
 
 ## 概述

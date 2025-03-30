@@ -7,7 +7,7 @@ config: {
     tag: ['css'],
     valine: true,
 }
-title: 基础知识整理
+title: css基础知识整理
 ---
 
 # CSS知识体系框架
