@@ -12,6 +12,10 @@ title: vscode + picgo + github搭建免费markdown图床
 ## 简介
 本文旨在使用vscode插件 + picgo + github搭建免费markdown图床，picgo是一个用于快速上传图片并获取图片url链接的工具，搭建后在vscode编写md文档时可通过快捷键轻松上传图片
 
+### 上传图片效果
+![上传图片](https://cdn.jsdelivr.net/gh/linyonglu/cloudImg/blogs/picture上传图片.gif)
+### 使用[ScreenToGif](https://www.screentogif.com/)制作gif后上传
+
 ## 前置步骤
 - 下载vscode插件PicGo
 ![20250330200227](https://cdn.jsdelivr.net/gh/linyonglu/cloudImg/blogs/picture20250330200227.png)
