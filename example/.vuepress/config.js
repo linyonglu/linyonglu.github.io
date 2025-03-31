@@ -204,7 +204,10 @@ module.exports = {
         }, {
             "name": "生活",
             "type": "life"
-        }],
+        }, {
+            "name": "计算机网络",
+            "type": "network"
+        },],
 
         live2d: {
             model: 'hijiki',
