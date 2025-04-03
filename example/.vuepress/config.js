@@ -207,6 +207,9 @@ module.exports = {
         }, {
             "name": "计算机网络",
             "type": "network"
+        },{
+            "name": "面经",
+            "type": "facewarp"
         },],
 
         live2d: {
